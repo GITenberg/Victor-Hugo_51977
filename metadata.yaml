@@ -1,0 +1,35 @@
+_repo: Victor-Hugo_51977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Littérature
+gutenberg_issued: '2016-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51977'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Hugo, Victor, 1802-1885 -- Criticism and interpretation'
+- !lcsh 'Authors, French -- 19th century -- Biography'
+- GITenberg
+title: Victor Hugo
+url: http://www.gutenberg.org/ebooks/51977
