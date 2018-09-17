@@ -1,5 +1,8 @@
 _repo: Victor-Hugo_51977
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51977-h/images/cover.jpg
 creator:
   author:
     agent_name: Gautier, Théophile
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51977#Victor-Hugo
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Littérature
